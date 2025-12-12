@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background
+  m_Shader: {fileID: 4800000, guid: e2c07f7ddbbd865408d12b9da77dea8e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _BLENDMODE_OVERLAY
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlendMode: 3
+    - _ColorMask: 15
+    - _EllipseOpacity: 0.547
+    - _EnableExternalAlpha: 0
+    - _Horizontal: 0
+    - _HorizontalGradient: 0
+    - _Power: 0.2
+    - _Softness: 0.06
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _BottomColor: {r: 0.02745098, g: 0.043137256, b: 0.02745098, a: 1}
+    - _Center: {r: 0.68, g: 1.13, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EllipseColor: {r: 0.5176471, g: 0.9098039, b: 0.38039216, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _GradientBottomColor: {r: 0.02745098, g: 0.043137256, b: 0.02745098, a: 1}
+    - _GradientTopColor: {r: 0.14901961, g: 0.1764706, b: 0.14901961, a: 1}
+    - _InnerColor: {r: 0.09692062, g: 0.20754719, b: 0.10218856, a: 1}
+    - _OuterColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Radius: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TopColor: {r: 0.14901961, g: 0.1764706, b: 0.14901961, a: 1}
+  m_BuildTextureStacks: []
